@@ -1297,5 +1297,10 @@ body {
 .counter-count{
   font-size: 40px;
   font-weight: bold;
-  color: #af2b15;
+  color: #fff;
+}
+
+
+.count-up{
+  background: #af2b15;
 }
